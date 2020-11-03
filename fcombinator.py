@@ -2,7 +2,7 @@
   * Program: FCombinator ;
   * File: fcombinator.py ;
   * Author: F0r3bod1n5 ;
-  * Version: v0.1 ;
+  * Version: v1.0 ;
 '''
 
 #!/usr/bin/env python
